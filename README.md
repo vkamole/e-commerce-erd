@@ -4,7 +4,7 @@ This challenge will help you master the art of database design🧠💾
 Your group will design an Entity-Relationship Diagram (ERD) and collaboratively build an e-commerce database from scratch.
 
 ## Features
-# This project contains:
+# This project is an assignment done by PLP Peer Group 556. It's an e-commerce database that contains:
 - 🖼️ product_image – Stores product image URLs or file references
 - 🎨 color – Manages available color options
 - 🗂️ product_category – Classifies products into categories (e.g., clothing, electronics)
@@ -28,6 +28,12 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 ## Screenshots
 - <img src="https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(78).png" />
 - <img src="https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(79).png" />
+
+## bash
+- git clone
+- cd e-commerce-erd
+- npm install
+- npm start
 
 ## Contributors
 ** 1. Victor Kamole
