@@ -32,13 +32,13 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 ## Contributors
 ** 1. Victor Kamole
 - Roles: group leader, project design
--  Github: <a href="github.com/vkamole">Victor Kamole</a>
--  Email: <mailto:vkamole@gmail.com>vkamole@gmail.com
+-  Github: [Victor Kamole](https://github.com/vkamole)
+-  Email:[vkamole@gmail.com](mailto:vkamole@gmail.com)
 
 ** 2. Mary Fiona Omondi
 - Roles: README content.
--  Github: <a href="github.com/fiona12-code">Fiona Atieno</a>
--  Email: <mailto:omondifiona77@gmail.com>omondifiona77@gmail.com
+-  Github: [Fiona Atieno](https://github.com/fiona12-code)
+-  Email: [omondifiona77@gmail.com](mailto:omondifiona77@gmail.com)
 
 
 
