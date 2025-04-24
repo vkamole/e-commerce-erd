@@ -18,6 +18,9 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 -📚 attribute_category – Groups attributes into categories (e.g., physical, technical)
 -🧪 attribute_type – Defines types of attributes (e.g., text, number, boolean)
 
+## Technologies used
+- mysql commands
+- draw.io
 
 ## Database ERD ✍️
 - <img src="https://github.com/vkamole/e-commerce-erd/blob/main/ecommerce_erd.png" />
@@ -25,6 +28,17 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 ## Screenshots
 - <img src="https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(78).png" />
 - <img src="https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(79).png" />
+
+## Contributors
+** 1. Victor Kamole
+** Roles: group leader, project design
+** Github: <a href="github.com/vkamole">Victor Kamole</a>
+** Email: <mailto:vkamole@gmail.com>vkamole@gmail.com
+
+** 2. Mary Fiona Omondi
+** Roles: README content.
+** Github: <a href="github.com/fiona12-code">Fiona Atieno</a>
+** Email: <mailto:omondifiona77@gmail.com>omondifiona77@gmail.com
 
 
 
