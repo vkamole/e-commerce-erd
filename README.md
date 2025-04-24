@@ -5,8 +5,8 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 
 ## Contents
 - [Jump to Features](##Features)
-- [Jump to Technologies Used](##Technologies used)
-- [Jump to ERD](##Database ERD)
+- Technologies used
+- Database ERD
 - Screenshots
 - bash
 - Contributors
