@@ -4,7 +4,7 @@ This challenge will help you master the art of database design🧠💾
 Your group will design an Entity-Relationship Diagram (ERD) and collaboratively build an e-commerce database from scratch.
 
 ## Contents
-- [Jump to Features](##Features)
+- [Features](##Features)
 - Technologies used
 - Database ERD
 - Screenshots
@@ -32,11 +32,11 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 - draw.io
 
 ## Database ERD ✍️
-- [ERD image](https://github.com/vkamole/e-commerce-erd/blob/main/ecommerce_erd.png)
+- <img src="https://github.com/vkamole/e-commerce-erd/blob/main/ecommerce_erd.png" />
 
 ## Screenshots
-- [screenshot_1](https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(78).png)
-- [screenshot_2](https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(79).png))
+- <img src="https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(78).png" />
+- <img src="https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(79).png" />
 
 ## bash
 - git clone https://github.com/vkamole/e-commerce-erd.git 
