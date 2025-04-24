@@ -3,6 +3,15 @@
 This challenge will help you master the art of database design🧠💾
 Your group will design an Entity-Relationship Diagram (ERD) and collaboratively build an e-commerce database from scratch.
 
+## Contents
+- [Jump to Features](##Features)
+- [Jump to Technologies Used](##Technologies used)
+- [Jump to ERD](##Database ERD)
+- Screenshots
+- bash
+- Contributors
+- Acknowledgement
+
 ## Features
 # This project is an assignment done by PLP Peer Group 556. It's an e-commerce database that contains:
 - 🖼️ product_image – Stores product image URLs or file references
@@ -23,14 +32,14 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 - draw.io
 
 ## Database ERD ✍️
-- <img src="https://github.com/vkamole/e-commerce-erd/blob/main/ecommerce_erd.png" />
+- [ERD image](https://github.com/vkamole/e-commerce-erd/blob/main/ecommerce_erd.png)
 
 ## Screenshots
-- <img src="https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(78).png" />
-- <img src="https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(79).png" />
+- [screenshot_1](https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(78).png)
+- [screenshot_2](https://github.com/vkamole/e-commerce-erd/blob/main/Screenshot%20(79).png))
 
 ## bash
-- git clone
+- git clone https://github.com/vkamole/e-commerce-erd.git 
 - cd e-commerce-erd
 - npm install
 - npm start
