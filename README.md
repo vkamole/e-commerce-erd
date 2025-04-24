@@ -4,8 +4,8 @@ This challenge will help you master the art of database design🧠💾
 Your group will design an Entity-Relationship Diagram (ERD) and collaboratively build an e-commerce database from scratch.
 
 ## Features
-🖼️ product_image – Stores product image URLs or file references
-🎨 color – Manages available color options
+- 🖼️ product_image – Stores product image URLs or file references
+- 🎨 color – Manages available color options
 🗂️ product_category – Classifies products into categories (e.g., clothing, electronics)
 📦 product – Stores general product details (name, brand, base price)
 🧾 product_item – Represents purchasable items with specific variations
