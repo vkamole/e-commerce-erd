@@ -40,5 +40,8 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 -  Github: [Fiona Atieno](https://github.com/fiona12-code)
 -  Email: [omondifiona77@gmail.com](mailto:omondifiona77@gmail.com)
 
+  ## 🙌 Acknowledgements
+  - PLP Academy Database Department
+
 
 
