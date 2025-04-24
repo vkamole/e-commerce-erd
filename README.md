@@ -19,7 +19,7 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 .
 
 1️⃣ Create an ERD ✍️
-<img src="" />
+<img src="https://github.com/vkamole/e-commerce-erd/blob/main/ecommerce_erd.png" />
 
 
 
