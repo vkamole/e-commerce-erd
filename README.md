@@ -1,7 +1,7 @@
 ## E-commerce Database Design
 🎯 Objective
-This challenge will help you master the art of database design🧠💾
-Your group will design an Entity-Relationship Diagram (ERD) and collaboratively build an e-commerce database from scratch.
+This is a challenge about mastering the art of database design🧠💾
+Group 556 designed an Entity-Relationship Diagram (ERD) and collaboratively built an e-commerce database from scratch.
 
 ## Contents
 - [Features](##Features)
