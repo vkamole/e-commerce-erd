@@ -19,14 +19,7 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
 .
 
 1️⃣ Create an ERD ✍️
-Clearly define all entities (tables) and their attributes.
-Understand and document the relationships between tables.
-Identify primary keys, foreign keys, and other constraints.
-Use tools like Lucidchart, draw.io, dbdiagram.io, or MySQL Workbench 🛠️
-2️⃣ Plan the Data Flow 🔄
-Map out how data flows between entities.
-As a team, discuss how the database will be structured and implemented.
-Think like architects! 🏗️
+<img src="" />
 
 
 
